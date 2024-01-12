@@ -1,0 +1,7 @@
+@inproceedings{REPO168,
+    author = "Jain, Ajay and Xie, Amber and Abbeel, Pieter",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "1911--1920",
+    title = "{VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models}",
+    year = "2023"
+}
