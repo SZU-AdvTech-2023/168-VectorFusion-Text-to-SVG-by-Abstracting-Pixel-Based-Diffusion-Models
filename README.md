@@ -1,0 +1,26 @@
+# VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models
+
+## Citation
+
+```
+@inproceedings{jain2023vectorfusion,
+  title={Vectorfusion: Text-to-svg by abstracting pixel-based diffusion models},
+  author={Jain, Ajay and Xie, Amber and Abbeel, Pieter},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1911--1920},
+  year={2023}
+}
+
+@inproceedings{
+    xing2023diffsketcher,
+    title={DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models},
+    author={XiMing Xing and Chuang Wang and Haitao Zhou and Jing Zhang and Qian Yu and Dong Xu},
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+    year={2023},
+    url={https://openreview.net/forum?id=CY1xatvEQj}
+}
+```
+
+## Licence
+
+This repo is licensed under a MIT License.
